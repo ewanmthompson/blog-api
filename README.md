@@ -1,6 +1,6 @@
 # blog-api
 
-This is the Module 2 tutorial for the edX Introduction to NodeJS course.
+This is the Module 2 assignment lab for the edX Introduction to NodeJS course.
 
 This project implements a RESTful Blog API.
 
